@@ -4,8 +4,8 @@ import requests
 import re
 
 username = 'thejackalbot'
-client_id = '6zp9aozoxm65nf8q5dpk3a5i9y7mt8'
-token = 'wl7nfgt5lqel859ho7551kjq91ri7r'
+client_id = ''
+token = ''
 channel = 'fremily'
 
 url = 'https://api.twitch.tv/helix/users?login=' + channel
